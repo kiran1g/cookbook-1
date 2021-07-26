@@ -2,5 +2,5 @@ Sambar
 Onions
 Dal
 tomato
+garlic
 ilachi
-jaggary
